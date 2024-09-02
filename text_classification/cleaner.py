@@ -15,4 +15,3 @@ class Cleaner():
         text = self.remove_html_tags(text)
         text = text.strip()
         return text
-        
